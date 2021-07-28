@@ -19,7 +19,8 @@ header p,
 header button {
   font-weight: 300;
 }
-header h1 {
+h1,
+h2 {
   font-weight: 600;
 }
 .img-gray {
