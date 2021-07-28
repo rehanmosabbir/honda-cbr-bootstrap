@@ -26,3 +26,8 @@ h2 {
 .img-gray {
   filter: grayscale(100%);
 }
+
+.accordion-button:not(.collapsed) {
+  background-color: #e76f51;
+  color: #fff;
+}
