@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Utilities */
+.bg-primary-header {
+  background-color: #264653;
+}
+.btn-honda-primary {
+  color: #fff;
+  background-color: #e76f51;
+}
+.text-honda-primary {
+  color: #e76f51;
+}
+
+header p,
+header button {
+  font-weight: 300;
+}
+header h1 {
+  font-weight: 600;
+}
+.img-gray {
+  filter: grayscale(100%);
+}
