@@ -10,6 +10,12 @@ body {
 .btn-honda-primary {
   color: #fff;
   background-color: #e76f51;
+  border: 2px solid #e76f51;
+}
+.btn-honda-primary:hover {
+  color: #e76f51;
+  background-color: #fff;
+  border: 2px solid #e76f51;
 }
 .text-honda-primary {
   color: #e76f51;
