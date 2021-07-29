@@ -50,6 +50,9 @@ h2 {
   outline: 0;
   box-shadow: none;
 }
+.latest-card {
+  border: 0px solid;
+}
 
 footer a {
   text-decoration: none;
